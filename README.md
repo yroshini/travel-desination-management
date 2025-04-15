@@ -49,3 +49,21 @@
    ```sh
    git clone https://github.com/yourusername/WanderLust.git
    cd WanderLust
+2. **Install dependencies**
+   ```npm install
+3. **Create .env file in the root directory**
+   MONGO_URI=your_mongodb_uri
+   JWT_SECRET=your_secret_key
+   PORT=8080
+4. **Seed Initial Data (Optional)**
+   node init/index.js
+
+5. **Run the application**
+   npm start
+6. **Visit the application**
+
+   Local: http://localhost:8080/listings
+   Live: https://travel-desination-management.onrender.com/listings
+
+
+
