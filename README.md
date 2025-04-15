@@ -43,26 +43,34 @@
 
 ---
 
-⚙️ Installation & Setup
-Clone the repository
-git clone https://github.com/yourusername/WanderLust.git
-cd WanderLust
+## ⚙️ Installation & Setup
 
-Install dependencies
-npm install
+1. **Clone the repository**  
+   First, clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/WanderLust.git
+   cd WanderLust
 
-Create .env file in the root directory
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret_key
-PORT=8080
+2. **Install dependencies**
+    npm install
 
-Seed Initial Data (Optional)
-node init/index.js
+3. **Create .env file in the root directory**
+    In the root directory of the project, create a .env file and add the following environment variables:
 
-Run the application
-npm start
+    MONGO_URI=your_mongodb_uri
+    JWT_SECRET=your_secret_key
+    PORT=8080
+   
+    Replace your_mongodb_uri with your MongoDB Atlas URI.
+    Replace your_secret_key with a secret string for JWT authentication.
 
-Visit the application
+4. Seed Initial Data (Optional)
+    node init/index.js
+
+5. Run the application
+    npm start
+
+6. You can now visit the application at:
 Local: http://localhost:8080/listings
 Live: https://travel-desination-management.onrender.com/listings
 
