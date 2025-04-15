@@ -26,7 +26,7 @@ const userRouter=require("./routes/user.js");
 
 
 //-------to connect database------
-const mongo_url="mongodb://127.0.0.1:27017/wanderlust";
+const mongo_url=process.env.ATLASDB_URL;
 //------connecting mongo atlas instead of connecting localhost
 //const dburl=process.env.ATLASDB_URL;
 
@@ -78,7 +78,7 @@ const sessionOptions={
 
 //-------basic api------
 app.get("/",(req,res)=>{
-    res.send("I'm working Workking finee");
+    res.redirect("/listings");
 });
 
 app.use(session(sessionOptions));
