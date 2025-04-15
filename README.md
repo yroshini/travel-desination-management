@@ -43,27 +43,28 @@
 
 ---
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
+Clone the repository
+git clone https://github.com/yourusername/WanderLust.git
+cd WanderLust
 
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/yourusername/WanderLust.git
-   cd WanderLust
-2. **Install dependencies**
-   ```npm install
-3. **Create .env file in the root directory**
-   MONGO_URI=your_mongodb_uri
-   JWT_SECRET=your_secret_key
-   PORT=8080
-4. **Seed Initial Data (Optional)**
-   node init/index.js
+Install dependencies
+npm install
 
-5. **Run the application**
-   npm start
-6. **Visit the application**
+Create .env file in the root directory
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_secret_key
+PORT=8080
 
-   Local: http://localhost:8080/listings
-   Live: https://travel-desination-management.onrender.com/listings
+Seed Initial Data (Optional)
+node init/index.js
+
+Run the application
+npm start
+
+Visit the application
+Local: http://localhost:8080/listings
+Live: https://travel-desination-management.onrender.com/listings
 
 
 
