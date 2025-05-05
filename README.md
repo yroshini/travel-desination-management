@@ -3,6 +3,7 @@
 **WanderLust** is a web-based platform for discovering and managing travel destinations. Users can explore various listings, add new destinations, leave reviews, and interact with the platform in a seamless manner. Authentication ensures secure access to various functionalities. Whether you're a travel enthusiast or just want to organize your trips, WanderLust is the perfect tool for you.
 
 > 🔗 **Live Demo**: [https://travel-desination-management.onrender.com/listings](https://travel-desination-management.onrender.com/listings)
+> 🔗 **Live Demo**: https://drive.google.com/file/d/1E3rZMcdwswCMypnigvIV3ikZAAOXX14j/view?usp=sharing
 
 ---
 
