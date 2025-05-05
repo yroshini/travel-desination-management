@@ -4,7 +4,7 @@
 
 >🔗 **Live Demo**: [https://travel-desination-management.onrender.com/listings](https://travel-desination-management.onrender.com/listings)
 
-🔗 **Live Demo**: [https://drive.google.com/file/d/1E3rZMcdwswCMypnigvIV3ikZAAOXX14j/view?usp=sharing](https://drive.google.com/file/d/1E3rZMcdwswCMypnigvIV3ikZAAOXX14j/view?usp=sharing)
+🔗 **Demo**: [https://drive.google.com/file/d/1E3rZMcdwswCMypnigvIV3ikZAAOXX14j/view?usp=sharing](https://drive.google.com/file/d/1E3rZMcdwswCMypnigvIV3ikZAAOXX14j/view?usp=sharing)
 
 
 ---
