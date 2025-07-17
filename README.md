@@ -77,5 +77,11 @@
 Local: http://localhost:8080/listings
 Live: https://travel-desination-management.onrender.com/listings
 
+### 👩‍💻 Developed By
 
+**Roshini Yajjavarapu**  
+📧 *roshini.ece2024.rce@gmail.com*  
+🎓 *B.Tech (Electronics & Communication Engineering)*  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/roshini-y-291905253/)  
+🌍 *Passionate about Full Stack Development & Software Engineering*
 
